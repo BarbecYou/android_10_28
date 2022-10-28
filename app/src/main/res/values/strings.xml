@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">android_10_28</string>
+    <string name="app_name">MultiLanguage</string>
+    <string name="kutya">Dog</string>
+    <string name="kutya_toast">This is a dog</string>
 </resources>
